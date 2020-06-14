@@ -23,7 +23,6 @@ Essas seções apresentam a visão geral de cada um desses itens, demonstrando o
 <div id="time"></div>
 
 ## Time
------------------
 
 Teste de time
 
