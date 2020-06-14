@@ -8,21 +8,32 @@ Esperamos fazer isso com a chancela de *ganhador* ou *um dos ganhadores* deste *
 
 Esse README.md está dividido nos seguintes tópicos:
 
-[O Time]: #o-time
+[Time]: #time
+[Projeto]: #projeto
+[Persona]: #persona
+[BIMO]: #bimo
+[Chatbot]: #chatbot
+[To-Do]: #to-do
 
+## Time
 
+(...)
 
-## O Time
+## Projeto
 
-## O Projeto
+(...)
 
 ## Persona
 
+(...)
 
-## BIMO - Aplicativo
+## BIMO
 
+(...)
 
 ## Chatbot
+
+(...)
 
 ## To-Do
 
