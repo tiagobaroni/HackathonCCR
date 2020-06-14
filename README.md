@@ -8,22 +8,24 @@ Esperamos fazer isso com a chancela de *ganhador* ou *um dos ganhadores* deste *
 
 Esse README.md está dividido nos seguintes tópicos:
 
-[Time]: #time	"Time"
-[Projeto]: #projeto	"Projeto"
-[Persona]: #persona	"Persona"
-[BIMO]: #bimo	"BIMO"
-[Chatbot]: #chatbot	"Chatbot"
-[To-Do]: #to-do	"To-Do"
+ * [Time](#time)
+ * [Projeto](#projeto)
+ * [Persona](#persona)
+ * [BIMO](#bimo)
+ * [Chatbot](#chatbot)
+ * [To-Do](#to-do)
 
 
 
 Essas seções apresentam a visão geral de cada um desses itens, demonstrando o que foi produzido durante o *hackathon* e aquilo que está na rota de produção para o aplicativo. 
 
 
+<div id="time"></div>
 
 ## Time
+-----------------
 
-(...)
+Teste de time
 
 ## Projeto
 
