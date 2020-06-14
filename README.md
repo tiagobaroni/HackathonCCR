@@ -1,1 +1,54 @@
-# HackathonCCR
+# Hackathon CCR
+
+O presente diretório/projeto foi criado como entrega para o Hackathon CCR, ocorrido entre 12 e 14 de junho de 2020, servindo como entrega dos códigos fontes desenvolvidos no decorrer do *hackathon*. 
+
+A postagem do *commit* final, que deve ocorrer antes das 23h59 do dia 14 de junho não significa que o projeto está permanentemente finalizado e/ou que não haverá continuidade. Imediatamente após a entrega os trabalhos continuarão no intuito de que haja um aplicativo viável e adequado para ser levado a público em breve.
+
+Esperamos fazer isso com a chancela de *ganhador* ou *um dos ganhadores* deste *hackathon*, mas isso não é limitante para continuarmos nosso trabalho. 
+
+Esse README.md está dividido nos seguintes tópicos:
+
+ * [Time](#time)
+ * [Projeto](#projeto)
+ * [Persona](#persona)
+ * [BIMO](#bimo)
+ * [Chatbot](#chatbot)
+ * [To-Do](#to-do)
+
+
+
+Essas seções apresentam a visão geral de cada um desses itens, demonstrando o que foi produzido durante o *hackathon* e aquilo que está na rota de produção para o aplicativo. 
+
+
+<div id="time"></div>
+
+## Time
+
+Teste de time
+
+## Projeto
+
+(...)
+
+## Persona
+
+(...)
+
+## BIMO
+
+(...)
+
+## Chatbot
+
+(...)
+
+<div id="to-do"></div>
+
+## To-Do
+
+Neste item, temos as alterações planejadas para o projeto BIMO:
+
+### Aplicativo
+
+Alterações/melhorias a serem implementadas no aplicativo BIMO:
+
