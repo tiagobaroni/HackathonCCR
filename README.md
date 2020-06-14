@@ -42,13 +42,6 @@ Teste de time
 
 (...)
 
-<div id="to-do"></div>
-
 ## To-Do
 
-Neste item, temos as alterações planejadas para o projeto BIMO:
-
-### Aplicativo
-
-Alterações/melhorias a serem implementadas no aplicativo BIMO:
-
+(Ligar To-Do com a *timeline* que pretendemos adotar para o andamento do projeto.)
