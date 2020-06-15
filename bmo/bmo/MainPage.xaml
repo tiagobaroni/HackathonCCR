@@ -13,9 +13,18 @@
                     HorizontalOptions="Center"
                      VerticalOptions="CenterAndExpand" TextColor="#004667"/>
 
-            <Image Source="facebook" HorizontalOptions="Center"/>
-            <Image Source="google" HorizontalOptions="Center"/>
-            <Image Source="email" HorizontalOptions="Center"/>
+            <ImageButton Source="facebook" 
+                         HorizontalOptions="Center"
+                         BackgroundColor="#FFFFFF"
+                         Clicked="ShowMesageFacebook"/>
+            <ImageButton Source="google" 
+                         HorizontalOptions="Center"
+                         BackgroundColor="#FFFFFF"
+                         Clicked="ShowMesageGoogle"/>
+            <ImageButton Source="email" 
+                         HorizontalOptions="Center"
+                         BackgroundColor="#FFFFFF"
+                         Clicked="GoCadastroMail"/>
 
 
             <Label Text="Já é cadastrado?" 

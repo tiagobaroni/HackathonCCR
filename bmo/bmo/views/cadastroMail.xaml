@@ -4,12 +4,17 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="bmo.views.cadastroMail">
+             x:Class="bmo.views.cadastroMail"
+             BackgroundImageSource="bckB">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout Padding="30" Spacing="10">
+
+            <Entry Placeholder="Nome completo" 
+                   VerticalOptions="CenterAndExpand"/>
+
+            <Entry Placeholder="Celular"
+                   VerticalOptions="StartAndExpand"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

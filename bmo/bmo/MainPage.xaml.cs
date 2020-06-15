@@ -24,9 +24,24 @@ namespace bmo
             var page = new views.entrar();
 
             Navigation.PushAsync(page);
-            //NavigationPage.SetHasNavigationBar(page, false);
+        }
 
+        private void GoCadastroMail(object sender, EventArgs args)
+        {
+            Navigation.PushAsync(new views.cadastroMail());
+            var page = new views.cadastroMail();
 
+            Navigation.PushAsync(page);
+        }
+
+        private void ShowMesageFacebook(object sender, EventArgs args)
+        {
+            DisplayAlert("Atenção", "Cadastro usando API do Facebook não implementado - API Key não liberada pelo Facebook!", "OK");
+        }
+
+        private void ShowMesageGoogle(object sender, EventArgs args)
+        {
+            DisplayAlert("Atenção", "Cadastro usando API do Google não implementado!", "OK");
         }
     }
 }
