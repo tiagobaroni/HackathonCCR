@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="bmo.views.selecaModo"
+             BackgroundImageSource="telaD.png">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <!--Colocar mensagem avisando que o usuário será informado via WhatsApp usando o chatbot-->
+            <ImageButton AbsoluteLayout.LayoutBounds="40,245,100,100"
+                         Source="btn"
+                         BackgroundColor="#FFFFFF"
+                         Opacity="0"
+            />
+
+            <ImageButton AbsoluteLayout.LayoutBounds="40,315,100,100"
+                         Source="btn"
+                         BackgroundColor="#FFFFFF"
+                         Opacity="0"
+                         Clicked="GoMenu"
+            />
+
+            <!--Colocar mensagem avisando que a funcionalidade não está implementada-->
+            <ImageButton AbsoluteLayout.LayoutBounds="40,600,100,100"
+                         Source="btn"
+                         BackgroundColor="#FFFFFF"
+                         Opacity="0"
+            />
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

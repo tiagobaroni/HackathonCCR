@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="bmo.views.entrar">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="cabecalho"/>
+
+            <StackLayout Padding="30">
+                <Label Text="Entrar usando:" 
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand" TextColor="#004667"/>
+
+            <Image Source="facebook" HorizontalOptions="Center"/>
+            <Image Source="google" HorizontalOptions="Center"/>
+
+                <Label Text="Ou:" 
+                       HorizontalOptions="Center"
+                       VerticalOptions="CenterAndExpand" TextColor="#004667"/>
+
+
+            <Entry Placeholder="Digite seu e-mail" 
+                   PlaceholderColor="#E77817"
+            />
+
+
+            <Entry Placeholder="Digite sua senha" 
+                   PlaceholderColor="#E77817"
+                   IsPassword="True"/>
+
+            <ImageButton Source="entrar" 
+                         HorizontalOptions="FillAndExpand"
+                         VerticalOptions="FillAndExpand"
+                         BackgroundColor="#FFFFFF"
+                         Clicked="GoSelecaoModo"/>
+            </StackLayout>
+
+        <Image Source="rodape" HorizontalOptions="Center"
+                   VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
